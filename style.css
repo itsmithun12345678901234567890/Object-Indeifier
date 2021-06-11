@@ -1,0 +1,45 @@
+body{
+    font-family:Nunito;
+    background: cornflowerblue;
+}
+.header_div
+{
+    background: cornsilk;
+    color:#ce2700;
+}
+
+.header_div img{
+    width : 100px
+}
+.main_div
+{
+background:cornsilk;
+padding: 10px;
+margin-top: 15px;
+border:3px solid cornflowerblue;
+}
+
+.main_div label 
+{
+    background: cornflowerblue;
+    width:310px;
+    padding:10px;
+    margin-bottom:0px;
+    box-shadow:5px 5px 18px cornsilk;
+}
+
+#camera
+{
+    border: 2px solid cornflowerblue;
+    width: 310px;
+    height: 300px;
+    box-shadow:5px 5px 18px cornsilk;
+}
+
+.main_div button
+{
+width:310px;
+font-size:16px;
+box-shadow: 5px 5px 18px cornsilk;
+border: 1px solid;
+}
